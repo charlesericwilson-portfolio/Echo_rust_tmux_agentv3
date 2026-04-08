@@ -1,0 +1,6 @@
+[package]
+name = "Echo_tmux"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
