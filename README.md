@@ -10,7 +10,7 @@ A lightweight Rust wrapper that turns a local LLM (currently "Echo") into a capa
 - Basic safety filtering for dangerous commands
 - Clean chat output
 - Currently building datasets and testing
-- Build details in [progress_lod.md](https://github.com/charlesericwilson-portfolio/Echo_tmux/blob/main/echo_tmux/Doc/progress_log.md)
+- Build details in [progress_log.md](https://github.com/charlesericwilson-portfolio/Echo_tmux/blob/main/echo_tmux/Doc/progress_log.md)
 
 ### Quick Start
 
