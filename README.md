@@ -29,4 +29,6 @@ A lightweight Rust wrapper that turns a local LLM (currently "Echo") into a capa
   cargo build --release
   ./target/release/echo_rust_wrapper
   ```
+Previous builds [Echo_agentv1-2](https://github.com/charlesericwilson-portfolio/Echo_agent1-2)
+
 Builds in progress [Echo Agent Proxy](https://github.com/charlesericwilson-portfolio/Echo_agent_proxy)
